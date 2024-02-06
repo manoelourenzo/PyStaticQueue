@@ -1,1 +1,1 @@
-PYthon implementation of a array-based queue
+Python implementation of a array-based queue
